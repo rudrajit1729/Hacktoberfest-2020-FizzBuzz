@@ -7,18 +7,16 @@ Submit creative FizzBuzz solutions in any language you want!
 
 <hr>
 
-<p align="center"><b>
-Read the official issue for an intro: <br>
-https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/issues/3
-</b><br><br>
-<a href="https://www.urbandictionary.com/define.php?term=tl%3Bdr">TL;DR:</a> We're searching for creative/extraordinary/weird FizzBuzz solutions :) 
+<p align="center">
+  <a href="https://www.urbandictionary.com/define.php?term=tl%3Bdr"><b>TL;DR:</b></a><br>
+  We're searching for creative/extraordinary/weird FizzBuzz solutions :) 
 </p>
 
 <hr>
 
 # :exclamation: READ BEFORE CONTRIBUTING
 **THIS REPOSITORY IS IN COMPLIANCE WITH THE HACKTOBERFEST VALUES AND RULES:** <br>
-We cannot accept every PR and label invalid one's accordingly! Examples are off-topic contributions, duplicated solutions, copy-paste solutions as well as obvious +1 attempts. <br>
+We cannot and **will not** accept every PR and label invalid one's accordingly! Examples are off-topic contributions, duplicated solutions, copy-paste solutions as well as obvious +1 attempts. <br>
 We are searching for **interesting/creative/abstract/unique/extraordinary/weird** solutions to FizzBuzz. Only one _normal_ solution per language is permitted! <br>
 This repository aligns with [the values of the Hacktoberfest](https://hacktoberfest.digitalocean.com/details) as it is meant as a fun challenge as well as a platform to learn (experiment with different solutions, challenging yourself to come up with creative solutions to a unique problem). <br>
 **Denied PR's can be found [here](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/issues?q=label%3Ainvalid+is%3Aclosed)**.
@@ -63,12 +61,19 @@ Read more about it here: https://www.tomdalling.com/blog/software-design/fizzbuz
 <hr>
 
 ## :trophy: Top 5 personal favorites:
+<sub>Side note: There are more than 5 solutions now but I don't want to change the title here because that would break a lot of links and references to it :)</sub>
 
 1. [First and only FizzBuzz implementation in "omgrofl"](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Omgrofl/FizzBuzz.omgrofl) by [@adamsoutar](https://github.com/adamsoutar) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/205) for more information!
 2. [FizzBuzz with Branchless logic (C++)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/C%2B%2B/FizzBuzz-branchless-logic.cpp) by [@s0LA1337](https://github.com/s0LA1337)
-3. [Overly complicated FizzBuzz solution (Python)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/FizzBuzz-2.py) by [@InitialPosition](https://github.com/InitialPosition)
-4. [Hardcoded FizzBuzz (Python)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/FizzBuzz-HardCoded.py) by [@khong612](https://github.com/khong612)
-5. [FizzBuzz in CharArrays, Bytes and Hex Values (Java)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Java/FizzBuzz-Main.java) by [@nimbl0](https://github.com/nimbl0)
+3. [Hand written solution in WebAssembly (WASM)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Wasm/fizzbuzz.wat) by [@nlordell](https://github.com/nlordell) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/492) for more information!
+4. [Type-Level FizzBuzz solution (TypeScript)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/TypeScript/typelevel-fizzbuzz.ts) by [@minajevs](https://github.com/minajevs) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/501) for more information!
+5. [FizzBuzz Machine-Learning implementation (Python)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/MLFizzBuzz.py) by [@mzelenetz](https://github.com/mzelenetz) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/387) for more information! 
+6. [Turing-Machine FizzBuzz Solution](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/fizzbuzz_turing_machine.py) by [@lennart-k](https://github.com/lennart-k)
+7. [FizzBuzz implementation in HolyC on TempleOS](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/HolyC/FizzBuzz.HC) by [@Azgeb](https://github.com/Azgeb) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/508) for more information!
+8. [FizzBuzz in Shakespearean](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Shakespeare%20Programming%20Language/fizzbuzz.spl) by [@C0DINGLE](https://github.com/C0DINGLE) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/559) for more information!
+9. [Overly complicated FizzBuzz solution (Python)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/FizzBuzz-2.py) by [@InitialPosition](https://github.com/InitialPosition)
+10. [Hardcoded FizzBuzz (Python)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/FizzBuzz-HardCoded.py) by [@khong612](https://github.com/khong612)
+11. [FizzBuzz in CharArrays, Bytes and Hex Values (Java)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Java/FizzBuzz_CharsBytesHex.java) by [@nimbl0](https://github.com/nimbl0)
 
 <hr>
 
